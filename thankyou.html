@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .full-screen {
+            height: 100vh;
+            width: 100vw;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="full-screen flex flex-col items-center justify-center">
+        <div class="bg-white p-8 rounded shadow-lg w-full max-w-2xl">
+            <h1 class="text-2xl font-bold mb-4">Thank You for Attending the Quiz!</h1>
+            <p class="mb-4">We appreciate your participation. Please rate your experience and provide feedback below.</p>
+            <form>
+                <div class="mb-4">
+                    <label for="rating" class="block text-lg font-medium mb-2">Rating:</label>
+                    <select id="rating" class="block w-full px-3 py-2 border border-gray-300 rounded">
+                        <option value="5">Excellent</option>
+                        <option value="4">Good</option>
+                        <option value="3">Average</option>
+                        <option value="2">Poor</option>
+                        <option value="1">Very Poor</option>
+                    </select>
+                </div>
+                <div class="mb-4">
+                    <label for="feedback" class="block text-lg font-medium mb-2">Feedback:</label>
+                    <textarea id="feedback" class="block w-full px-3 py-2 border border-gray-300 rounded" rows="4"></textarea>
+                </div>
+                <button type="submit" class="px-4 py-2 bg-blue-500 text-white rounded">Submit Feedback</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
