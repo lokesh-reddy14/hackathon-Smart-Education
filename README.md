@@ -1,5 +1,5 @@
-Title: Smart Assessment Board - Hackathon Project
-
+Title: <a href="https://lokesh-reddy14.github.io/hackathon-Smart-Education/" target="_blank">Smart Assessment Board - Hackathon Project
+</a><br/>
 Description:
 I’m thrilled to present our latest Hackathon project - the Smart Assessment Board! 🎓 This project is designed to streamline quiz competitions on identifying states and capitals, making it easier for school teachers to conduct and manage quizzes effectively.
 
@@ -53,5 +53,5 @@ Role:
    I managed the entire development process, from designing the user interface with Tailwind CSS to implementing the quiz logic and feedback mechanisms with JavaScript.
 
 Outcome:
-The Smart Assessment Board successfully combines an engaging quiz interface with immediate feedback and user-friendly navigation. It enhances the educational experience by providing a comprehensive tool for teachers to conduct and manage quizzes efficiently.
+The Smart Assessment Board successfully combines an engaging quiz interface with immediate feedback and user-friendly navigation. It enhances the educational experience by providing a comprehensive tool for teachers to conduct and manage quizzes efficiently.<br/>
 **Check the outcomes by clicking ** <a href="https://lokesh-reddy14.github.io/hackathon-Smart-Education/" target="_blank">Smart-Education  </a><br/>
