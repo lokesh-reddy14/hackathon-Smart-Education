@@ -50,7 +50,7 @@ HTML5: For structuring the pages.
 Tailwind CSS: For styling the pages with a modern and responsive design.
 JavaScript: For quiz functionality, including dynamic question handling, timers, and real-time feedback.
 Role:
-As the project lead, I managed the entire development process, from designing the user interface with Tailwind CSS to implementing the quiz logic and feedback mechanisms with JavaScript.
+   I managed the entire development process, from designing the user interface with Tailwind CSS to implementing the quiz logic and feedback mechanisms with JavaScript.
 
 Outcome:
 The Smart Assessment Board successfully combines an engaging quiz interface with immediate feedback and user-friendly navigation. It enhances the educational experience by providing a comprehensive tool for teachers to conduct and manage quizzes efficiently.
