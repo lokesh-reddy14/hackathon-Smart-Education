@@ -13,12 +13,21 @@ Instructions Page (instructions.html): Provides detailed instructions on how to 
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/hackathon-Smart-Education/main/OUTPUT%20SCREENSHOTS/Screenshot%202024-08-19%20224842.png" alt="Smart-Education  " />
 
 
-Quiz Page (quiz.html):
+Quiz Page (quiz.html):<br/>
 When the answer is correct 
 
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/hackathon-Smart-Education/main/OUTPUT%20SCREENSHOTS/Screenshot%202024-08-19%20224920.png" alt="Smart-Education  " />
+<br/>
+When the answer is Not selected
+
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/hackathon-Smart-Education/main/OUTPUT%20SCREENSHOTS/Screenshot%202024-08-19%20224944.png" alt="Smart-Education  " />
+<br/>
+When the answer is incorrect
+
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/hackathon-Smart-Education/main/OUTPUT%20SCREENSHOTS/Screenshot%202024-08-19%20225002.png" alt="Smart-Education  " />
+<br/>
+Result After submitting the quiz
+
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/hackathon-Smart-Education/main/OUTPUT%20SCREENSHOTS/Screenshot%202024-08-19%20225110.png" alt="Smart-Education  " />
 
 
